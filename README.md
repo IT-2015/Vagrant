@@ -22,10 +22,12 @@ vagrant -v
 ```
 
 Si la commande n'est pas reconnu, sous Windows :
-Allez dans Système > Paramètres système avancés > (BTN) Variables d'environnement...
-Modifier la valeur du PATH en rajoutant le chemin de Vagrant [path]\Vagrant\bin;
-(path étant le chemin ou vous avez installer Vagrant sur votre poste)
 
+Allez dans Système > Paramètres système avancés > (BTN) Variables d'environnement...
+
+Modifier la valeur du PATH en rajoutant le chemin de Vagrant [path]\Vagrant\bin;
+
+(path étant le chemin ou vous avez installer Vagrant sur votre poste)
 
 Une fois que l'outil est utilisable dans le terminal 2 choix d'installation d'une box se propose.
 
