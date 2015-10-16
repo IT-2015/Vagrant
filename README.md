@@ -38,6 +38,7 @@ Dans ce fichier VagrantFile modifier la ligne et cibler l'emplacement de votre f
 `config.vm.box_url = "devbox.box"`
 
 ## 2. Installation initial
+Il n'y a pas besoin VagrantFile.
 
 Choisir une box sur un des sites d'hébergement de box.
  - http://www.vagrantbox.es/
@@ -49,3 +50,16 @@ Choisir une box sur un des sites d'hébergement de box.
   vagrant init {title}
   vagrant up
 ```
+
+Modifier {title} par le titre de la box, et l'url par celui donner par le site.
+
+# Commande Utile
+
+`vagrant up` Démarre ou install une box
+
+`vagrant halt` Arret de la box
+
+`vagrant destroy` Destruction de la box
+
+`vagrant ssh` Connection en SSH à la box démarré
+
