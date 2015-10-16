@@ -35,6 +35,7 @@ Pour installer depuis une box existante et à disposition.
 Copier coller le fichier VagrantFile à l'emplacement de votre projet. 
 
 Dans ce fichier VagrantFile modifier la ligne et cibler l'emplacement de votre fichier `.box` : 
+
 `config.vm.box_url = "devbox.box"`
 
 ## 2. Installation initial
