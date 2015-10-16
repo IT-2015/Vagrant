@@ -66,7 +66,7 @@ Modifier {title} par le titre de la box, et l'url par celui donner par le site.
 
 `vagrant ssh` Connection en SSH à la box démarré
 
-# Autre solution d'avoir une installation Vagrant
+# Autre solution
 
 
 #![Logo-puphpet](https://github.com/IT-2015/Vagrant/blob/master/logo-puphpet.png) [PUPHPET](https://puphpet.com/) 
