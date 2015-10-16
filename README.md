@@ -23,7 +23,7 @@ vagrant -v
 
 Si la commande n'est pas reconnu, sous Windows :
 
-Allez dans Système > Paramètres système avancés > (BTN) Variables d'environnement...
+> Allez dans Système > Paramètres système avancés > (BTN) Variables d'environnement...
 
 Modifier la valeur du PATH en rajoutant le chemin de Vagrant [path]\Vagrant\bin;
 
